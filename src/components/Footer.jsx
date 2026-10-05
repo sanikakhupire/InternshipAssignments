@@ -73,7 +73,7 @@ export default function Footer() {
               <div>License: MIT Open Source</div>
               <div className="pt-2">
                 <a
-                  href="https://github.com/your-username/scroll-driven-hero-animation"
+                  href="https://github.com/sanikakhupire/InternshipAssignments"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 text-slate-300 hover:text-white transition-colors"
